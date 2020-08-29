@@ -1,7 +1,6 @@
-2020-08-28-first-post.md
 ---
 layout: post
-title: First Post
+title: Introductory Post
 ---
 
 This is my **first post**.
